@@ -11,7 +11,3 @@
   Добро пожаловать в мой профиль!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
-- 👋 Привет, я @ponfertato
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ponfertato&theme=dark&locale=ru)](https://git.io/streak-stats)
