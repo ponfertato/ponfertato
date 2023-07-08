@@ -13,19 +13,19 @@
 </h1>
 
 <picture>
-  <img src="/metrics.base.svg" alt="Base with plugin.Gists" width="50%">
+  <img src="/metrics.base.svg" alt="Base with plugin.Gists">
 </picture>
 
 <picture>
-  <img src="/metrics.plugin.achievements.svg" alt="plugin.Achievements" width="50%">
+  <img src="/metrics.plugin.achievements.svg" alt="plugin.Achievements">
 </picture>
 
 <picture>
-  <img src="/metrics.plugin.languages.svg" alt="plugin.Languages" width="50%">
+  <img src="/metrics.plugin.languages.svg" alt="plugin.Languages">
 </picture>
 
 <picture>
-  <img src="/metrics.plugin.rss.svg" alt="plugin.Rss" width="50%">
+  <img src="/metrics.plugin.rss.svg" alt="plugin.Rss">
 </picture>
 
 <picture>
