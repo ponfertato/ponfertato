@@ -14,6 +14,9 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          #Token
+          token: NOT_NEEDED
+
           #Configure
           filename: metrics.plugin.rss.svg
           base: ""
