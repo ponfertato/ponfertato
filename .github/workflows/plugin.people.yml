@@ -1,0 +1,32 @@
+name: plugin.People
+on:
+  #Schedule daily updates
+  schedule: [{ cron: "0 0 * * *" }]
+  #Run workflow manually
+  workflow_dispatch:
+  #Run workflow when pushing on master/main
+  push: { branches: ["master", "main"] }
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          #Token
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          #Options
+          config_octicon: yes
+          config_timezone: Europe/Moscow
+
+          #Configure
+          filename: metrics.plugin.people.svg
+          base: ""
+          plugin_people: yes
+          plugin_people_identicons: yes
+          plugin_people_limit: 24
+          plugin_people_shuffle: yes
+          plugin_people_size: 30
+          plugin_people_types: contributors, stargazers, watchers, sponsors
