@@ -13,21 +13,21 @@
 </h1>
 
 <picture>
-  <img src="/metrics.base.svg" alt="Base with plugin.Gists" width="100%">
+  <img src="/metrics.base.svg" alt="Base with plugin.Gists" width="75%">
 </picture>
 
 <picture>
-  <img src="/metrics.plugin.achievements.svg" alt="plugin.Achievements" width="100%">
+  <img src="/metrics.plugin.achievements.svg" alt="plugin.Achievements" width="75%">
 </picture>
 
 <picture>
-  <img src="/metrics.plugin.languages.svg" alt="plugin.Languages" width="100%">
+  <img src="/metrics.plugin.languages.svg" alt="plugin.Languages" width="75%">
 </picture>
 
 <picture>
-  <img src="/metrics.plugin.rss.svg" alt="plugin.Rss" width="100%">
+  <img src="/metrics.plugin.rss.svg" alt="plugin.Rss" width="75%">
 </picture>
 
 <picture>
-  <img src="/metrics.plugin.people.svg" alt="plugin.People" width="100%">
+  <img src="/metrics.plugin.people.svg" alt="plugin.People" width="75%">
 </picture>
