@@ -16,16 +16,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 2.73mb of code in 650 edited files across 216 commits</small>
+                <small>estimation from 2.74mb of code in 677 edited files across 222 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="430.089823763502" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="430.089823763502" y="0" width="18.03382603752132" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="448.1236498010233" y="0" width="7.877771461057418" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="456.0014212620807" y="0" width="3.998578737919272" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="427.4959692254586" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="427.4959692254586" y="0" width="17.925064753433297" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="445.42103397889196" y="0" width="8.734100321909173" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="454.15513430080114" y="0" width="5.844865699198881" height="8" fill="#000080"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -49,8 +49,8 @@
                                 Shell
                             </div>
                             <small>
-                                <div>769 lines</div>
-                                <div>27.7 kB</div>
+                                <div>823 lines</div>
+                                <div>30.9 kB</div>
                             </small>
                         </div>
                     </section>
@@ -75,8 +75,8 @@
                                 Lua
                             </div>
                             <small>
-                                <div>344 lines</div>
-                                <div>14 kB</div>
+                                <div>578 lines</div>
+                                <div>20.6 kB</div>
                             </small>
                         </div>
                     </section>
