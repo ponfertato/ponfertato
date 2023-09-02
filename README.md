@@ -12,22 +12,5 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<picture>
-  <img src="/metrics.base.svg" alt="Base with plugin.Gists">
-</picture>
-
-<picture>
-  <img src="/metrics.plugin.achievements.svg" alt="plugin.Achievements">
-</picture>
-
-<picture>
-  <img src="/metrics.plugin.languages.svg" alt="plugin.Languages">
-</picture>
-
-<picture>
-  <img src="/metrics.plugin.rss.svg" alt="plugin.Rss">
-</picture>
-
-<picture>
-  <img src="/metrics.plugin.people.svg" alt="plugin.People" width="50%">
-</picture>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
