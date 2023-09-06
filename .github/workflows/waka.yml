@@ -5,7 +5,7 @@ on:
   #Run workflow manually
   workflow_dispatch:
   #Run workflow when pushing on master/main
-  push: { branches: ["master", "main"] }
+  #push: { branches: ["master", "main"] }
 jobs:
   waka-readme-stats:
     runs-on: ubuntu-latest
