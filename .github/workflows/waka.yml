@@ -1,7 +1,7 @@
 name: Waka Readme
 on:
-  #Schedule daily updates
-  schedule: [{ cron: "0 0 * * *" }]
+  #Run at minute 0 past every 3rd hour
+  schedule: [{ cron: "0 */3 * * *" }]
   #Run workflow manually
   workflow_dispatch:
   #Run workflow when pushing on master/main
