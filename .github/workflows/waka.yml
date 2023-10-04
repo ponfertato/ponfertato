@@ -22,7 +22,7 @@ jobs:
           # DEBUG_LOGGING: "False"
           COMMIT_BY_ME: "True"
           COMMIT_EMAIL: "41898282+github-actions[bot]@users.noreply.github.com"
-          COMMIT_MESSAGE: "waka: update readme"
+          COMMIT_MESSAGE: "🚀waka: update readme"
           COMMIT_USERNAME: "readme-bot"
           IGNORED_REPOS: "ponfertato, example"
           LOCALE: "en"
