@@ -1,31 +1,19 @@
-<div id="badges">
-  <!-- Development Technologies -->
-  <img src="https://img.shields.io/badge/github-gray?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
-  <img src="https://img.shields.io/badge/codeberg-blue?style=for-the-badge&logo=codeberg&logoColor=white" alt="Codeberg Badge"/>
-  <img src="https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
-  <img src="https://img.shields.io/badge/portainer-blue?style=for-the-badge&logo=portainer&logoColor=white" alt="Portainer Badge"/>
-  <img src="https://img.shields.io/badge/cloudflare-orange?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Badge"/>
-
-  <!-- Monitoring -->
-  <img src="https://img.shields.io/badge/prometheus-orange?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus Badge"/>
-  <img src="https://img.shields.io/badge/grafana-orange?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana Badge"/>
-
-  <!-- Web Development -->
-  <img src="https://img.shields.io/badge/hugo-pink?style=for-the-badge&logo=hugo&logoColor=gray" alt="Hugo Badge"/>
-  <img src="https://img.shields.io/badge/traefik-blue?style=for-the-badge&logo=traefikproxy&logoColor=white" alt="Traefik Badge"/>
-
-  <!-- Social -->
-  <img src="https://img.shields.io/badge/matrix-black?style=for-the-badge&logo=matrix&logoColor=white" alt="Matrix Badge"/>
-  <img src="https://img.shields.io/badge/mastodon-blueviolet?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Badge"/>
-  <img src="https://img.shields.io/badge/peertube-orange?style=for-the-badge&logo=peertube&logoColor=white" alt="Peertube Badge"/>
-
-  <!-- Translate -->
-  <img src="https://img.shields.io/badge/crowdin-greenblue?style=for-the-badge&logo=crowdin&logoColor=white" alt="Crowdin Badge"/>
-  <img src="https://img.shields.io/badge/weblate-green?style=for-the-badge&logo=weblate&logoColor=white" alt="Weblate Badge"/>
-</div>
-<!-- <img src="https://komarev.com/ghpvc/?username=ponfertato&style=flat-square&color=blue" alt=""/> -->
-
 # Welcome to my profile! ✋
+
+<!--Development Technologies-->
+<img src="https://img.shields.io/badge/github-gray?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/> <img src="https://img.shields.io/badge/gitlab-orange?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge"/> <img src="https://img.shields.io/badge/codeberg-blue?style=for-the-badge&logo=codeberg&logoColor=white" alt="Codeberg Badge"/> <img src="https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/> <img src="https://img.shields.io/badge/portainer-blue?style=for-the-badge&logo=portainer&logoColor=white" alt="Portainer Badge"/> <img src="https://img.shields.io/badge/cloudflare-orange?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Badge"/>
+
+<!--Monitoring-->
+<img src="https://img.shields.io/badge/prometheus-orange?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus Badge"/> <img src="https://img.shields.io/badge/grafana-orange?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana Badge"/>
+
+<!--Web Development-->
+<img src="https://img.shields.io/badge/hugo-pink?style=for-the-badge&logo=hugo&logoColor=gray" alt="Hugo Badge"/> <img src="https://img.shields.io/badge/traefik-blue?style=for-the-badge&logo=traefikproxy&logoColor=white" alt="Traefik Badge"/>
+
+<!--Social-->
+<img src="https://img.shields.io/badge/matrix-black?style=for-the-badge&logo=matrix&logoColor=white" alt="Matrix Badge"/> <img src="https://img.shields.io/badge/mastodon-blueviolet?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Badge"/> <img src="https://img.shields.io/badge/peertube-orange?style=for-the-badge&logo=peertube&logoColor=white" alt="Peertube Badge"/>
+
+<!--Translate-->
+<img src="https://img.shields.io/badge/crowdin-greenblue?style=for-the-badge&logo=crowdin&logoColor=white" alt="Crowdin Badge"/> <img src="https://img.shields.io/badge/weblate-green?style=for-the-badge&logo=weblate&logoColor=white" alt="Weblate Badge"/>
 
 ### Hardware Info ⚒️
 
@@ -43,6 +31,7 @@
 ### Time Tracking 🕑
 
 <!--START_SECTION:waka-->
+
 **I'm an Early 🐤** 
 
 ```text
@@ -88,6 +77,5 @@ Git                      14 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 Linux                    6 hrs 37 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜   84.38 % 
 Windows                  1 hr 13 mins        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.62 % 
 ```
-
 
 <!--END_SECTION:waka-->
