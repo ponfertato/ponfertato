@@ -1,19 +1,67 @@
 # Welcome to my profile! ✋
 
-<!--Development Technologies-->
-<img src="https://img.shields.io/badge/github-gray?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/> <img src="https://img.shields.io/badge/gitlab-orange?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge"/> <img src="https://img.shields.io/badge/codeberg-blue?style=for-the-badge&logo=codeberg&logoColor=white" alt="Codeberg Badge"/> <img src="https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/> <img src="https://img.shields.io/badge/portainer-blue?style=for-the-badge&logo=portainer&logoColor=white" alt="Portainer Badge"/> <img src="https://img.shields.io/badge/cloudflare-orange?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Badge"/>
+<!-- Development & Version Control -->
+**Development & Version Control:**
+<img src="https://img.shields.io/badge/GitHub-30363D?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab"/>
+<img src="https://img.shields.io/badge/Codeberg-4693CC?style=flat-square&logo=codeberg&logoColor=white" alt="Codeberg"/>
 
-<!--Monitoring-->
-<img src="https://img.shields.io/badge/prometheus-orange?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus Badge"/> <img src="https://img.shields.io/badge/grafana-orange?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana Badge"/>
+<!-- Infrastructure & Containers -->
+**Infrastructure & Containers:**
+<img src="https://img.shields.io/badge/Docker-1454D3?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Dockge-73C2FF?style=flat-square&logoColor=white" alt="Dockge"/>
+<img src="https://img.shields.io/badge/Portainer-0AA5EC?style=flat-square&logo=portainer&logoColor=white" alt="Portainer"/>
+<img src="https://img.shields.io/badge/Nix-5177C3?style=flat-square&logo=nixos&logoColor=white" alt="Nix"/>
 
-<!--Web Development-->
-<img src="https://img.shields.io/badge/hugo-pink?style=for-the-badge&logo=hugo&logoColor=gray" alt="Hugo Badge"/> <img src="https://img.shields.io/badge/traefik-blue?style=for-the-badge&logo=traefikproxy&logoColor=white" alt="Traefik Badge"/>
+<!-- Monitoring & Logging -->
+**Monitoring & Logging:**
+<img src="https://img.shields.io/badge/Uptime--Kuma-61DE8F?style=flat-square&logo=uptime-kuma&logoColor=white" alt="Uptime Kuma"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/>
+<img src="https://img.shields.io/badge/Alertmanager-D03435?style=flat-square&logo=prometheus&logoColor=white" alt="Alertmanager"/>
+<img src="https://img.shields.io/badge/Grafana-F3802F?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
+<img src="https://img.shields.io/badge/Loki-F55C04?style=flat-square&logoColor=white" alt="Loki"/>
+<img src="https://img.shields.io/badge/FluentBit-00BEBD?style=flat-square&logo=fluentbit&logoColor=white" alt="Fluent Bit"/>
 
-<!--Social-->
-<img src="https://img.shields.io/badge/matrix-black?style=for-the-badge&logo=matrix&logoColor=white" alt="Matrix Badge"/> <img src="https://img.shields.io/badge/mastodon-blueviolet?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Badge"/> <img src="https://img.shields.io/badge/peertube-orange?style=for-the-badge&logo=peertube&logoColor=white" alt="Peertube Badge"/>
+<!-- Networking & Reverse Proxy -->
+**Networking & Reverse Proxy:**
+<img src="https://img.shields.io/badge/Traefik-23A1C1?style=flat-square&logo=traefikproxy&logoColor=white" alt="Traefik"/>
+<img src="https://img.shields.io/badge/Caddy-21B638?style=flat-square&logo=caddy&logoColor=white" alt="Caddy"/>
+<img src="https://img.shields.io/badge/Cloudflare-F4821A?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+<img src="https://img.shields.io/badge/ZeroTier-FFB441?style=flat-square&logo=zerotier&logoColor=white" alt="ZeroTier"/>
+<img src="https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white" alt="WireGuard"/>
 
-<!--Translate-->
-<img src="https://img.shields.io/badge/crowdin-greenblue?style=for-the-badge&logo=crowdin&logoColor=white" alt="Crowdin Badge"/> <img src="https://img.shields.io/badge/weblate-green?style=for-the-badge&logo=weblate&logoColor=white" alt="Weblate Badge"/>
+<!-- Communication & Collaboration -->
+**Communication & Collaboration:**
+<img src="https://img.shields.io/badge/Element-0CBD8B?style=flat-square&logo=element&logoColor=white" alt="Element (Matrix)"/>
+<img src="https://img.shields.io/badge/Matrix-000000?style=flat-square&logo=matrix&logoColor=white" alt="Matrix"/>
+<img src="https://img.shields.io/badge/XMPP-2E3439?style=flat-square&logo=xmpp&logoColor=white" alt="XMPP"/>
+<img src="https://img.shields.io/badge/Simplex-6FF0F9?style=flat-square&logo=simplex&logoColor=white" alt="Simplex"/>
+<img src="https://img.shields.io/badge/Mattermost-1D325C?style=flat-square&logo=mattermost&logoColor=white" alt="Mattermost"/>
+
+<!-- Storage & Sync -->
+**Storage & Sync:**
+<img src="https://img.shields.io/badge/Syncthing-0791D1?style=flat-square&logo=syncthing&logoColor=white" alt="Syncthing"/>
+<img src="https://img.shields.io/badge/Nextcloud-068DD6?style=flat-square&logo=nextcloud&logoColor=white" alt="Nextcloud"/>
+<img src="https://img.shields.io/badge/Seafile-FF9800?style=flat-square&logoColor=white" alt="Seafile"/>
+<img src="https://img.shields.io/badge/Filestash-7AC2E6?style=flat-square&logoColor=white" alt="Filestash"/>
+
+<!-- Remote Desktop & Support -->
+**Remote Desktop & Support:**
+<img src="https://img.shields.io/badge/RustDesk-0061EF?style=flat-square&logo=rust&logoColor=white" alt="RustDesk"/>
+<img src="https://img.shields.io/badge/AnyDesk-EF443B?style=flat-square&logo=anydesk&logoColor=white" alt="AnyDesk"/>
+
+<!-- Security & Identity -->
+**Security & Identity:**
+<img src="https://img.shields.io/badge/Authelia-5C2F86?style=flat-square&logo=authelia&logoColor=white" alt="Authelia"/>
+<img src="https://img.shields.io/badge/Authentik-FD4B2D?style=flat-square&logo=authentik&logoColor=white" alt="Authentik"/>
+<img src="https://img.shields.io/badge/Vaultwarden-1152A3?style=flat-square&logo=vaultwarden&logoColor=white" alt="Vaultwarden"/>
+<img src="https://img.shields.io/badge/Passbolt-D40101?style=flat-square&logoColor=white" alt="Passbolt"/>
+
+<!-- Utilities & Others -->
+**Utilities & Others:**
+<img src="https://img.shields.io/badge/Open WebUI-171717?style=flat-square&logo=ollama&logoColor=white" alt="Open WebUI"/>
+<img src="https://img.shields.io/badge/WakaTime-517DA4?style=flat-square&logo=wakatime&logoColor=white" alt="WakaTime"/>
+
 
 ### Hardware Info ⚒️
 
