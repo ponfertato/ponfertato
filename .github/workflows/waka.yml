@@ -3,7 +3,7 @@ jobs:
   waka-readme-stats:
     permissions:
       contents: write
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
