@@ -1,5 +1,7 @@
 # Welcome to my profile! ✋
 
+> "Potato is not just a vegetable, it's a state of mind." 🥔
+
 <!-- Development & Version Control -->
 
 **Development, Translates & Version Control:**
@@ -50,7 +52,7 @@
 **Storage & Sync:**
 <img src="https://img.shields.io/badge/Syncthing-0791D1?style=flat-square&logo=syncthing&logoColor=white" alt="Syncthing"/>
 <img src="https://img.shields.io/badge/Nextcloud-068DD6?style=flat-square&logo=nextcloud&logoColor=white" alt="Nextcloud"/>
-<img src="https://img.shields.io/badge/Seafile-FF9800?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAAYCAMAAAC7r5/PAAABa1BMVEUAAACzs7N4eHiioqKRkZG4uLjOzs65ubnGxsbGxsbMzMzGxsa6urq2trazs7Otra28vLy+vr6vr6+enp7Q0NDFxcXKysrIyMjCwsLQ0NC7u7u4uLi6urq/v7+9vb3R0dHKysq/v7/Gxsa1tbXNzc24uLjExMS4uLi/v7/ExMSvr6+zs7PKysq0tLSvr6+wsLDExMSqqqqpqamzs7Orq6uzs7OqqqqampqqqqrZ2dnW1tbAwMDR0dHKysrDw8PBwcHQ0NC4uLi2trbNzc3MzMy/v7+6urrV1dXPz8/GxsbHx8fS0tLCwsLNzc28vLy5ubm3t7e/v7/ExMS+vr67u7vKysq2trbFxcXFxcWxsbHKysrCwsLBwcG0tLTAwMDOzs6ysrK9vb2qqqrHx8esrKzGxsajo6PHx8fExMS/v7/T09PKysrJycm7u7vQ0NDMzMzOzs68vLzBwcG5ubnV1dXX19fAwMDY2Njb29vRkUbtAAAAZ3RSTlMAewUNCDb09PLn0srAfWNeSDwdEP7+/f36+Pjw7+3o4N7NwbSglY2HeWxqYF1cS0VDOjUxKiYjHBX59/fy8e/t6Obk3tvb19XSzsXCv7u4uKmon5qRjImEfXZzZVpXVFJQTk1APjcvv+PtJgAAAWhJREFUOMuVkIdSwkAURdcQem8qXXoHpdt77733RlBAjCKf7242IYkwomcm+969cyabCRBhuk48gr8gCYy2Wq3l+94muf7FMDbcUz37ZPGQvdSVD47fX1sy5icqHAmQP1TNeDajki7msa1iqXFmgDix4W3e2GGeW2oMMpVKVluQhHBCRYe79oYYuoAXkleG2zoTcSf+BoN6sg7xmaV7q+qQCajrAqIiNfKCUJYi/WgqdHDw+ICIrBRSMAy8MqDBowRd2HgWolDg2U0lpnjPup8jiOyuFa5ekuhUp8scg3FcaeEeXHQdmH+6W23zEkVTmgSactkFC6/4j0nC7nfM+A3KR+4cAEm2Couu1zSpJkXBx55COUkF4ZmBFeybS0I1RbHI00zepnbgqWPLWaGqa2CcDzhrGtW+p7iTbf1CtSCvIhwjbD6tCrCjlkcvp2l6LsNF0k+3ceiBmGJMqzfzkbjT9mFiRfBfvgEqL5Z2blOKcQAAAABJRU5ErkJggg==&logoColor=white" alt="Seafile"/>
+<img src="https://img.shields.io/badge/Seafile-FF9800?style=flat-square&logo=seafile&logoColor=white" alt="Seafile"/>
 <img src="https://img.shields.io/badge/Filestash-7AC2E6?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAAqCAMAAADyHTlpAAAAk1BMVEUAAADw9fXy8/X////q8f7y8/by9Pby8/Xz8/Xy8/by8/Xy8/Ty8vby8/bz8/X19vby8/by8/Xy8/Xy8/Xy9Pby8/Xx9PXz8/b09PTy8/Xy9PXy8/Xy9PXy8/by9PXz8/Xy8vXx9fX09PTy8vXy8vLv7+/z8/Xy9PXy8/X09PTw8vjy8/Xz8/Xz8/Xy8/Xy8/Xy8/X1qfWhAAAAMHRSTlMAM/oGC7tw7sy+6XU4i2cb89nSqYaAWlQW5cfDsaGckk9IQScTD/XhYS4h9s64rJdGW8y+AAABlUlEQVQ4y+WT2XbiMBBEQcK7wXghDhD2sIQkM/f/v26EmKMjIZt5n9wXcLtOU13dDH4Kch82TbiX/xS+biI00fj9ufJliiFqnylnKOJmMmm+UGT9yguwyO/f8xh46VMeBKykGa+GU9EjVe8SaUWxgHXP8CAOduFDII6d0gn8civfPW5HK2/kTDnw0pWTRKCYb4yFYlais8tGtnKnqxqx0W9kdjKl1HIRCuBzGcQpiq9CuUlQTKsk0XseW/Nwvuhmwxooj3IJLHe6/bYCmrtyKODN+GlP6uk3iNDMoZ7Y6q8JBNLyLbhxsUZZQ3lT5MrTq3czKyef8z3gsXLtBhyBKLq2E8PQDXkFgbfzSH2kIL0lbQYuc1CDC6YDTzp7KFVQ+F21+7Czawy5W09g51YKiLoSeBeIh3sKoe7M1QvgqEy2f3/v2779T71GmzeozA3U5gZy1SFxeyql2JtdULZSC9cC0qs9UZhiJZLp41wEVcSNMrizjON4jkJY2W3PPKHaOycSLugmqlv/H3vIhw98XK+jwf/OH/09Qt6NLH8zAAAAAElFTkSuQmCC&logoColor=white" alt="Filestash"/>
 
 <!-- Remote Desktop & Support -->
@@ -65,7 +67,7 @@
 <img src="https://img.shields.io/badge/Authelia-5C2F86?style=flat-square&logo=authelia&logoColor=white" alt="Authelia"/>
 <img src="https://img.shields.io/badge/Authentik-FD4B2D?style=flat-square&logo=authentik&logoColor=white" alt="Authentik"/>
 <img src="https://img.shields.io/badge/Vaultwarden-1152A3?style=flat-square&logo=vaultwarden&logoColor=white" alt="Vaultwarden"/>
-<img src="https://img.shields.io/badge/Passbolt-D40101?style=flat-square&logoColor=white" alt="Passbolt"/>
+<img src="https://img.shields.io/badge/Passbolt-D40101?style=flat-square&logo=passbolt&logoColor=white" alt="Passbolt"/>
 
 <!-- Utilities & Others -->
 
@@ -87,59 +89,71 @@
 | 🖥️ potatoServer | Orange Pi 3B                     | <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Armbian_chip_logo.png" alt="Armbian Logo" style="width:30px;"/> Armbian 25.8.0 (aarch64)                                                | ARM Cortex-A55 (1800 MHz)                        | Rockchip RK3566 OPi 3B                                      | 8 GBytes                              | SD/MMC: A3A561 (64 GBytes); NVMe: Patriot M.2 P300 (256 GBytes)                                                |
 | 📱 potatoPhone  | Xiaomi 11 Lite 5G NE             | <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Android_robot_head.svg" alt="Android Logo" style="width:30px;"/> HyperOS 2.0.8.0 (Android 14, aarch64)                                  | Qualcomm Snapdragon 778G (SM7325)                | Qualcomm SM7325 (lisa)                                      | 8 GBytes                              | UFS: 128 GBytes                                                                                                |
 | 📱 potatoTablet | Xiaomi Redmi Pad 2               | <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Android_robot_head.svg" alt="Anroid Logo" style="width:30px;"/> HyperOS 3.0.1.0 (Android 16, aarch64)                                   | MediaTek Helio G99 (MT8781U)                     | MediaTek MT8781V/NA (taiko)                                 | 8 GBytes                              | eMMC/UFS: 256 GBytes                                                                                           |
-| 🥽 potatoQuest  | Meta\* Quest 3S                  | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Meta_Platforms_Inc._logo_%28cropped%29.svg" alt="Meta* Logo" style="width:30px;"/> Horizon OS (Android 13, aarch64, UP1A.231005.007.A1) | Qualcomm Snapdragon XR2 Gen 2 (SM8475, 2054 MHz) | Meta\* panther (Qualcomm SM8475)                            | 8 GBytes (LPDDR5)                     | UFS 3.1: 128 GBytes                                                                                            |
-
-<small>\* - Meta Platforms Inc. признана экстремистской и террористической организацией в РФ.</small>
+| 🥽 potatoQuest  | Meta\* Quest 3S                  | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Meta_Platforms_Inc._logo_%28cropped%29.svg" alt="Meta* Logo" style="width:30px;"/> Horizon OS (Android 13, aarch64, UP1A.231005.007.A1) | Qualcomm Snapdragon XR2 Gen 2 (SM8475, 2054 MHz) | Qualcomm SM8475 (panther)                                   | 8 GBytes                              | UFS: 128 GBytes                                                                                                |
 
 <!--END_SECTION:hardware-->
+
+### ✉️ Connect with me
+
+<!--START_SECTION:connect-->
+
+| Platform   | Link                                                                                                                                                                                                                                                 |
+| :--------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Social** | [VK](https://vk.com/ponfertato) • [Telegram](https://t.me/ponfertato) • [Mastodon](https://social.potatoenergy.ru/@ponfertato) • [Bluesky](https://bsky.app/profile/ponfertato.potatoenergy.ru) • [Discord](https://discordapp.com/users/ponfertato) |
+| **Dev**    | [GitHub](https://github.com/ponfertato) • [GitLab](https://gitlab.com/ponfertato) • [Codeberg](https://codeberg.org/ponfertato) • [WakaTime](https://wakatime.com/@ponfertato)                                                                       |
+| **Gaming** | [Steam](https://steamcommunity.com/profiles/ponfertato) • [GOG](https://gog.com/u/ponfertato) • Epic Games: ponfertato • EA: Ponfertato • Uplay: ponfertato                                                                                          |
+
+<!--END_SECTION:connect-->
 
 ### Time Tracking 🕑
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning                474 commits         ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   28.64 % 
-🌆 Daytime                851 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   51.42 % 
-🌃 Evening                304 commits         ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.37 % 
-🌙 Night                  26 commits          ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.57 % 
+🌞 Morning                474 commits         ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   28.64 %
+🌆 Daytime                851 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   51.42 %
+🌃 Evening                304 commits         ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.37 %
+🌙 Night                  26 commits          ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.57 %
 ```
-📅 **I'm Most Productive on Tuesday** 
+
+📅 **I'm Most Productive on Tuesday**
 
 ```text
-Monday                   211 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.75 % 
-Tuesday                  449 commits         ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   27.13 % 
-Wednesday                252 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.23 % 
-Thursday                 302 commits         ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.25 % 
-Friday                   266 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.07 % 
-Saturday                 80 commits          ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.83 % 
-Sunday                   95 commits          ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.74 % 
+Monday                   211 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.75 %
+Tuesday                  449 commits         ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   27.13 %
+Wednesday                252 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.23 %
+Thursday                 302 commits         ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.25 %
+Friday                   266 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.07 %
+Saturday                 80 commits          ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.83 %
+Sunday                   95 commits          ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.74 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-Other                    7 hrs 57 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜   73.60 % 
-YAML                     2 hrs 17 mins       ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   21.20 % 
-Nix                      26 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.14 % 
-Docker                   6 mins              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.05 % 
+💬 Programming Languages:
+Other                    7 hrs 57 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜   73.60 %
+YAML                     2 hrs 17 mins       ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   21.20 %
+Nix                      26 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.14 %
+Docker                   6 mins              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.05 %
 
-🔥 Editors: 
-Firefox                  8 hrs 12 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜   76.05 % 
-VS Code                  2 hrs 35 mins       ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   23.95 % 
+🔥 Editors:
+Firefox                  8 hrs 12 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜   76.05 %
+VS Code                  2 hrs 35 mins       ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   23.95 %
 
-🐱‍💻 Projects: 
-home-assistant           6 hrs 26 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   59.66 % 
-mastodon                 1 hr 51 mins        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.21 % 
-nixcfg                   56 mins             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.74 % 
-Minecraft-Stuff          34 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.32 % 
-go2rtc                   34 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.31 % 
+🐱‍💻 Projects:
+home-assistant           6 hrs 26 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   59.66 %
+mastodon                 1 hr 51 mins        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.21 %
+nixcfg                   56 mins             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.74 %
+Minecraft-Stuff          34 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.32 %
+go2rtc                   34 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.31 %
 
-💻 Operating System: 
-Linux                    10 hrs 48 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+💻 Operating System:
+Linux                    10 hrs 48 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 %
 ```
-
 
 <!--END_SECTION:waka-->
+
+<small>\* - Meta Platforms Inc. признана экстремистской и террористической организацией в РФ.</small>
