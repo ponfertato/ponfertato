@@ -89,7 +89,7 @@
 | 📱 potatoTablet | Xiaomi Redmi Pad 2               | <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Android_robot_head.svg" alt="Anroid Logo" style="width:30px;"/> HyperOS 3.0.1.0 (Android 16, aarch64)                                   | MediaTek Helio G99 (MT8781U)                     | MediaTek MT8781V/NA (taiko)                                 | 8 GBytes                              | eMMC/UFS: 256 GBytes                                                                                           |
 | 🥽 potatoQuest  | Meta\* Quest 3S                  | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Meta_Platforms_Inc._logo_%28cropped%29.svg" alt="Meta* Logo" style="width:30px;"/> Horizon OS (Android 13, aarch64, UP1A.231005.007.A1) | Qualcomm Snapdragon XR2 Gen 2 (SM8475, 2054 MHz) | Meta\* panther (Qualcomm SM8475)                            | 8 GBytes (LPDDR5)                     | UFS 3.1: 128 GBytes                                                                                            |
 
-<small>\* - признана экстремистской и террористической организацией в РФ.</small>
+<small>\* - Meta Platforms Inc. признана экстремистской и террористической организацией в РФ.</small>
 
 <!--END_SECTION:hardware-->
 
